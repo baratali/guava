@@ -5,7 +5,7 @@
 
 <module name="Checker">
 
-  <property name="severity" value="error"/>
+  <property name="severity" value="ignore"/>
 
   <module name="JavadocPackage">
     <property name="allowLegacy" value="false"/>

@@ -83,6 +83,7 @@
         <version>2.12.1</version>
         <configuration>
           <configLocation>checkstyle_checks.xml</configLocation>
+          <enableFilesSummary>false</enableFilesSummary>
         </configuration>
       </plugin>
       <plugin>
